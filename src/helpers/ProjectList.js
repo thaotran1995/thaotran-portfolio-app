@@ -6,32 +6,32 @@ import Proj5 from '../assets/proj5.jpg';
 import Proj6 from '../assets/proj6.png';
 export const projectList = [
     { 
-        name: "Social Media Webiste",
+        name: "Project 01",
         image: Proj1,
         skills: "JavaScript,HTML,CSS",
     },
     {
-        name: "Ecommerce Website",
+        name: "Project 02",
         image: Proj2,
         skills: "React,Node.js,MongoDB",
       },
       {
-        name: "Spotify Clone",
+        name: "Project 03",
         image: Proj3,
         skills: "React,Node.js,MongoDB,SpotifyAPI",
       },
       {
-        name: "Social Media Website",
+        name: "Project 04",
         image: Proj4,
         skills: "React,Node.js,MySQL,GraphQL",
       },
       {
-        name: "Dashboard Visualizer",
+        name: "Project 05",
         image: Proj5,
         skills: "JavaScript,HTML,CSS",
       },
       {
-        name: "Mobile Game",
+        name: "Project 06",
         image: Proj6,
         skills: "React Native,JavaScript,HTML,CSS",
       },
